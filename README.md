@@ -5,5 +5,5 @@ Environment:
 - Python 3.6 interpreter
 - PyCharm IDE 
 
-Notes:
+Personal learning notes:
 - [Python 3.6 tutorial](python_tutorials/README.md)

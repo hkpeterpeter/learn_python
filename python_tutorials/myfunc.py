@@ -13,13 +13,17 @@ dummy()  # invoke a dummy function
 print(dummy.__doc__)
 
 
-# function with keyword arguments
+print("function with keyword arguments")
 def f(a=1, b=2, c=3):
     print("(a,b,c) = ", a, ",", b, ",", c)
 
-
 f(1, 2, 3)
 f(c=3, a=1, b=2)
+
+print("unpacking arguments")
+print( list(range(3,6)))
+args = [3,6]
+print( list(range(*args)))
 
 
 # A sample usage of position arguments and keyword arguments

@@ -14,3 +14,9 @@
 - Functions
   - [Using function](myfunc.py)
   - [Special notes for function with default values](func-default-once.py)
+  - [Using lambda expression](mylambda.py)
+- List comprehension
+  - [Data structure](data_structure.py)
+  - [List comprehension](list_comprehension.py)
+  - [Nested list comprehension](nested_list_comprehension.py)
+- Tuples and Sequences
