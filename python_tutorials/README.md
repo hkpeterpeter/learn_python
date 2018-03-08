@@ -1,8 +1,9 @@
 
 # Reference
 
-[The Python Tutorial 3.6.4](https://docs.python.org/3/tutorial/)
+[The Python Tutorial (for Python 3)](https://docs.python.org/3/tutorial/)
 - [Hello World](hello.py)
+- [Using print](using_print.py)
 - [Using Expressions](expressions.py)
 - [Branching statements](mybranch.py)
 - [Using String](mystring.py)
@@ -25,4 +26,5 @@
   - [Using dictionary](mydict.py)
 - Modules and Packages
   - [Using Modules](using_module.py), given a sample [fib module](fib.py)
-  - [Using package](using_package.py), with the [demopack](demopack/README.md) package
+  - [Using Packages](using_package.py), with the [demopack](demopack/) package
+- [File IO](myfileio.py)
