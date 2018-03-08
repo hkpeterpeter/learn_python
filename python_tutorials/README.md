@@ -1,7 +1,4 @@
-
-# Reference
-
-[The Python Tutorial (for Python 3)](https://docs.python.org/3/tutorial/)
+**Code**
 - [Hello World](hello.py)
 - [Using print](using_print.py)
 - [Using Expressions](expressions.py)
@@ -28,3 +25,5 @@
   - [Using Modules](using_module.py), given a sample [fib module](fib.py)
   - [Using Packages](using_package.py), with the [demopack](demopack/) package
 - [File IO](myfileio.py)
+- Reference
+  - [The Python Tutorial (for Python 3)](https://docs.python.org/3/tutorial/)
