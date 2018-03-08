@@ -11,3 +11,6 @@ print("result", end=": ")
 # Values in different types can be separated by commas
 print("commas ", 1, " " , 2.5, " ", [1,2,3], end="\n" )
 
+# print - using seperator
+print(1,2,3,4,5,sep="| ", end="\n")
+

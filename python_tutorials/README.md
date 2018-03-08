@@ -20,3 +20,9 @@
   - [List comprehension](list_comprehension.py)
   - [Nested list comprehension](nested_list_comprehension.py)
 - Tuples and Sequences
+  - [Using Tuple](mytuple.py)
+  - [Using set](myset.py)
+  - [Using dictionary](mydict.py)
+- Modules and Packages
+  - [Using Modules](using_module.py), given a sample [fib module](fib.py)
+  - [Using package](using_package.py), with the [demopack](demopack/README.md) package
